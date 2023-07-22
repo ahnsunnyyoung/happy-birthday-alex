@@ -3,6 +3,8 @@ html {
 }
 
 body {
+  background-color: black;
+  color: white;
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
