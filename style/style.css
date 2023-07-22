@@ -1,3 +1,9 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+.nanumgothiccoding * {
+  font-family: 'Nanum Gothic Coding', monospace;
+ }
+ 
 html {
   box-sizing: border-box;
 }
